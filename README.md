@@ -1,6 +1,7 @@
 # researchassistant
 
 Data: AWS documentation
+
 Goal of this project: Building a tool addressing the issue of large amounts of time spent by developers searching through documentation or asking other developers simple questions that are in the documentation of a company. This project will cover a subset of the data and will initially just be applied to one of the teams.
  1) Main goal is to have a system that can assist developers with parts of the documentation they aren’t familiar with
  2) Second goal is for the system to be able to point the user to further reading, by pointing them towards the source for the response and towards other documents that may be relevant to what they are currently working on.
